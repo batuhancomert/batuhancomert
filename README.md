@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <img src="https://user-images.githubusercontent.com/80350752/224695457-33d99625-0296-43ec-89f9-5ca38ac60770.png" align="right" width="250" heigth="250" title="HackerRank">
+
+### Hi there 👋
 
 ## Tech I Use
 
