@@ -18,7 +18,7 @@
 
 
 <details>
-    <summary>:bulb: <strong>Github Stats</strong></summary>
+    <summary>:bulb: <strong style="color: orange;">Github Stats</strong></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=batuhancomert&theme=transparent">
 </details>
 
